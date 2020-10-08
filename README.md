@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+## PR in Zulip
+[PR1](https://github.com/zulip/zulip/pull/15930)
+[PR2](https://github.com/zulip/zulip/pull/15708)
+
 <!--
 **palashcode/palashcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
